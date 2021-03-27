@@ -2,7 +2,7 @@
   "name": "fun-card-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://archanasha.github.io/react-basics",
+  "homepage": "https://archanasha.github.io/React-Basics",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
