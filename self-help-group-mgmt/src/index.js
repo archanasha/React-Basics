@@ -4,9 +4,13 @@ import './index.css';
 
 class App extends React.Component{
     render(){
-        return (<button onClick={()=>this.clickme('hello')}>Hello</button>)
+        return (
+        <div>
+            <h1>Self help group management</h1>
+        <button onClick={()=>this.clickme('hello')}>Hello</button>
+        </div>
+        )
     }
-    
     clickme(param){
         alert(param);
     }
